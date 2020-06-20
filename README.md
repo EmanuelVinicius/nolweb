@@ -1,1 +1,1 @@
-Versão inicial do projeto com JSF e CDI usado na disciplina de Programação para a WEB.
+Salvando o Jornalista,exercicio 04.
